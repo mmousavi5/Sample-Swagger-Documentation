@@ -1,0 +1,22 @@
+swagger: "2.0"
+info:
+  description: "country API for the test"
+  title: "country API"
+  version: "1.0.0"
+basepath: /rest/v2
+host: rescountries.eu
+schemes:
+  - http
+  - https
+paths:
+  /all:
+    get:
+      responses:
+        200:
+          description: succssful
+
+    post:
+      description: "salam man anam"
+      responses:
+        200:
+          description: succssful
