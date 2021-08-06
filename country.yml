@@ -11,6 +11,7 @@ schemes:
 paths:
   /all:
     get:
+      description: retrieves all countries data
       responses:
         200:
           description: succssful
