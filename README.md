@@ -1,2 +1,2 @@
 # Sample-Swagger-Documentation
-## salam
+**this is a sample API documentation prepred by swagger**
